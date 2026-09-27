@@ -120,9 +120,7 @@ inas:
 
 *"Small steps, cute progress."* 🤎✨
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&duration=3200&pause=1000&color=A9746E&background=FFF8F0&center=true&vCenter=true&width=800&lines=Merci+d'être+passé%C2%A0!+%F0%9F%A4%8E;See+you+next+commit+%E2%98%95" alt="Footer" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&duration=3200&pause=1000&color=A9746E&background=FFF8F0&center=true&vCenter=true&width=800&lines=Merci+pour+la+visite+%F0%9F%A4%8E;See+you+next+commit+%E2%98%95" alt="Footer" />
 
 <!--
 **inasbsgt/inasbsgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
