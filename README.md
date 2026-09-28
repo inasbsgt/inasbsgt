@@ -13,7 +13,7 @@
 <br>
 
 ### ☕ About Me
-> Étudiante en informatique curieuse de nature, toujours à la recherche du prochain truc "wow" à apprendre. J'avance pas à pas — du C au Python, du réseau aux bases de données — avec une tasse de café jamais loin. 🤎
+> Étudiante en informatique curieuse de nature, toujours à la recherche du prochain truc à apprendre. J'avance pas à pas — du C au Python, du réseau aux bases de données — avec une tasse de café jamais loin. 🤎
 
 ```yaml
 inas:
@@ -111,8 +111,8 @@ inas:
 ### 🎀 En dehors du code
 
 - ☕ **Café :** indispensable pour coder sereinement
-- 🌸 **Kawaii :** tout ce qui est mignon a ma préférence
-- 🧠 **Curiosité :** toujours partante pour apprendre un truc nouveau et "wow"
+- 🌸 **Vibe:** tout ce qui est mignon a ma préférence
+- 🧠 **Curiosité :** toujours partante pour acquérir de nouvelles compétences
 
 <br>
 
