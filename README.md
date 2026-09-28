@@ -1,46 +1,89 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2800&pause=900&color=6F4E37&background=FFF8F0&center=true&vCenter=true&multiline=true&width=800&height=200&lines=Hi%2C+I'm+Inas+%F0%9F%A4%8E;%3E+CS+Student+%40+UIR;%3E+Curious+%7C+Coffee-powered+%7C+Always+learning;%3E+Let's+build+something+cute+%26+cool+%E2%98%95" alt="Terminal" />
+<img src="assets/header.svg" alt="Hi, I am Inas" width="100%" />
 
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=inasbsgt&color=6F4E37&style=for-the-badge&label=PROFILE+VIEWS)
-![Status](https://img.shields.io/badge/Status-Learning-D2B48C?style=for-the-badge&logoColor=black&labelColor=FFF8F0)
-![Focus](https://img.shields.io/badge/Focus-Curiosity%20%F0%9F%8C%B8-A9746E?style=for-the-badge&labelColor=FFF8F0)
+![Status](https://img.shields.io/badge/Status-Learning-D2B48C?style=for-the-badge&labelColor=6F4E37&logo=coffeescript&logoColor=white)
+![Mood](https://img.shields.io/badge/Mood-Kawaii-F4C2C2?style=for-the-badge&labelColor=A9746E)
+![Coffee](https://img.shields.io/badge/Coffee%20level-100%25-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white)
+![Chocolate](https://img.shields.io/badge/Dark%20Chocolate-70%25%20cocoa-3E2723?style=for-the-badge&logoColor=white)
+
+<img src="assets/divider.svg" width="80%" alt="" />
 
 </div>
 
-<br>
+### 🌷 About Me
 
-### ☕ About Me
-> Étudiante en informatique curieuse de nature, toujours à la recherche du prochain truc à apprendre. J'avance pas à pas — du C au Python, du réseau aux bases de données — avec une tasse de café jamais loin. 🤎
+> Curious by nature and always hunting for the next "wow" thing to learn. I am a CS student at UIR, moving step by step from C to Python, from networking to databases, with a cup of coffee never far away. 🤎
 
 ```yaml
 inas:
-  university: "UIR — Informatique, 2ème année"
-  learning: ["C", "Python (bases)", "Réseau", "Bases de données"]
-  next_up: "SQL (dans 2 semaines) ☁️"
-  vibe: "Curieuse, kawaii, café-addict"
+  university: "UIR - Computer Science, 2nd year 🎓"
+  learning: ["C", "Python", "Networking", "Databases"]
+  next_up: "SQL (coming very soon!) 🚀"
+  fav_color: "brown 🤎"
+  fav_drink: "coffee ☕"
+  fav_treat: "dark chocolate 🍫"
+  fav_style: "kawaii 🌸"
+  superpower: "curiosity"
   motto: "Small steps, cute progress ✨"
 ```
 
-<br>
+<div align="center"><img src="assets/divider.svg" width="80%" alt="" /></div>
 
-### 🌸 Ce sur quoi je travaille
+### ☕ What I Am Brewing
 
 <div align="center">
 
-| Domaine | Détails | Progression |
-|:---|:---|:---:|
-| 💻 **C** | Bases solides, algo & logique | 🟫🟫🟫🟫⬜ |
-| 🐍 **Python** | Niveau basique, en construction | 🟫🟫🟫⬜⬜ |
-| 🌐 **Réseau** | En cours avec la promo | 🟫🟫🟫⬜⬜ |
-| 🗄️ **Bases de données** | Fondamentaux en cours | 🟫🟫⬜⬜⬜ |
-| 🔜 **SQL** | Arrive dans 2 semaines ! | 🟫⬜⬜⬜⬜ |
+<img src="assets/brew.svg" width="70%" alt="Currently brewing SQL" />
+
+<br>
+
+<img src="assets/skills.svg" width="80%" alt="My skill levels" />
+
+<br>
+
+<img src="assets/pairing.svg" width="80%" alt="My perfect pair: coffee and dark chocolate" />
 
 </div>
 
-<br>
+<div align="center"><img src="assets/divider.svg" width="80%" alt="" /></div>
+
+### 🍰 My Coffee Menu
+
+<div align="center">
+
+| Drink | Skill | Flavor notes |
+|:---:|:---|:---|
+| ☕ **Espresso** | **C** | Strong, direct, the foundation of everything |
+| 🍵 **Latte** | **Python** | Smooth, friendly, fun to work with |
+| 🧊 **Iced Coffee** | **Networking** | Cool concepts, how machines talk to each other |
+| 🍫 **Mocha** | **Databases** | Rich and layered, all about organizing data |
+| ✨ **Special of the month** | **SQL** | Brewing... available very soon! |
+
+</div>
+
+### 🌸 My Journey
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#F5DEB3','primaryTextColor':'#6F4E37','primaryBorderColor':'#A9746E','lineColor':'#A9746E','secondaryColor':'#FFF8F0','tertiaryColor':'#FFF8F0'}}}%%
+flowchart LR
+    A([💻 C]) --> B([🐍 Python])
+    B --> C([🌐 Networking])
+    C --> D([🗄️ Databases])
+    D --> E([🔜 SQL])
+    E --> F([✨ What is next?])
+    style A fill:#D2B48C,stroke:#6F4E37,color:#3E2723
+    style B fill:#C19A6B,stroke:#6F4E37,color:#3E2723
+    style C fill:#A9746E,stroke:#6F4E37,color:#FFF8F0
+    style D fill:#8B6F5A,stroke:#6F4E37,color:#FFF8F0
+    style E fill:#6F4E37,stroke:#3E2723,color:#FFF8F0
+    style F fill:#F4C2C2,stroke:#A9746E,color:#6F4E37
+```
+
+<div align="center"><img src="assets/divider.svg" width="80%" alt="" /></div>
 
 ### 🧸 Tech Stack
 
@@ -48,57 +91,89 @@ inas:
 
 <img src="https://skillicons.dev/icons?i=c,py,mysql,linux,vscode,git,github&theme=light" />
 
-</div>
+<br><br>
+
+![Coffee Lover](https://img.shields.io/badge/-Coffee%20Lover-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white)
+![Chocolate Lover](https://img.shields.io/badge/-Dark%20Chocolate%20Lover-3E2723?style=for-the-badge&logoColor=white)
+![Kawaii](https://img.shields.io/badge/-Kawaii%20Everything-F4C2C2?style=for-the-badge&logoColor=black)
+![Curious](https://img.shields.io/badge/-Always%20Curious-A9746E?style=for-the-badge&logoColor=white)
+![Learning](https://img.shields.io/badge/-Learning%20by%20Doing-D2B48C?style=for-the-badge&logoColor=black)
 
 <br>
 
-<div align="center">
+**🗣️ Languages**
 
-**🐻 Petits plaisirs**
-
-![Coffee](https://img.shields.io/badge/-Coffee%20Lover-6F4E37?style=flat-square&logo=buymeacoffee&logoColor=white)
-![Kawaii](https://img.shields.io/badge/-Kawaii%20Everything-D2B48C?style=flat-square&logoColor=black)
-![Curious](https://img.shields.io/badge/-Toujours%20Curieuse-A9746E?style=flat-square&logoColor=white)
-![Learning](https://img.shields.io/badge/-Learning%20by%20Doing-C19A6B?style=flat-square&logoColor=black)
-
-<br>
-
-**🗣️ Langues**
-
-![French](https://img.shields.io/badge/Français-Natif-6F4E37?style=for-the-badge)
-![Arabic](https://img.shields.io/badge/Arabe-Natif-A9746E?style=for-the-badge)
-![English](https://img.shields.io/badge/Anglais-Proficient-D2B48C?style=for-the-badge&logoColor=black)
+![French](https://img.shields.io/badge/French-Native-6F4E37?style=for-the-badge)
+![Arabic](https://img.shields.io/badge/Arabic-Native-A9746E?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Proficient-D2B48C?style=for-the-badge&logoColor=black)
 
 </div>
 
-<br>
+### 🐍 My Little Python Corner
+
+<details>
+<summary><b>Click to open ☕</b></summary>
+
+```python
+# A tiny profile written in Python
+class Inas:
+    def __init__(self):
+        self.color = "brown"
+        self.drink = "coffee"
+        self.style = "kawaii"
+        self.curious = True
+
+    def learn(self, topic):
+        return f"Inas is learning {topic} 🤎"
+
+inas = Inas()
+print(inas.learn("SQL"))
+```
+
+</details>
+
+### 🔮 Fun Facts
+
+<details>
+<summary><b>Click to reveal ✨</b></summary>
+
+- ☕ I probably drink more coffee than I should
+- 🤎 Brown is my favorite color and I am not changing it
+- 🍫 Dark chocolate and coffee is the perfect combo, no debate
+- 🌸 If it is cute, I want it
+- 🧠 I get really excited when I learn something new
+- 🗣️ I speak 3 languages: French, Arabic and English
+
+</details>
+
+<div align="center"><img src="assets/divider.svg" width="80%" alt="" /></div>
 
 ### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=inasbsgt&show_icons=true&theme=cobalt2&hide_border=true&count_private=true&rank_icon=github&icon_color=D2B48C&title_color=6F4E37" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inasbsgt&layout=compact&theme=cobalt2&hide_border=true&icon_color=D2B48C&title_color=6F4E37" width="30%" />
+<img src="https://github-readme-stats.vercel.app/api?username=inasbsgt&show_icons=true&count_private=true&rank_icon=github&bg_color=FFF8F0&title_color=A9746E&text_color=6F4E37&icon_color=D2B48C&border_color=D2B48C&border_radius=20" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inasbsgt&layout=compact&bg_color=FFF8F0&title_color=A9746E&text_color=6F4E37&border_color=D2B48C&border_radius=20" width="33%" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=inasbsgt&theme=cobalt2&hide_border=true&ring=D2B48C&fire=A9746E" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=inasbsgt&background=FFF8F0&ring=A9746E&fire=D2B48C&currStreakNum=6F4E37&sideNums=6F4E37&currStreakLabel=A9746E&sideLabels=A9746E&dates=8B6F5A&border=D2B48C&stroke=D2B48C&border_radius=20" width="60%" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=inasbsgt&bg_color=FFF8F0&color=6F4E37&line=A9746E&point=D2B48C&area=true&area_color=D2B48C&hide_border=true&title_color=A9746E" width="95%" />
 
 </div>
-
-<br>
 
 ### 🐾 Contribution Snake
 
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/inasbsgt/inasbsgt/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/inasbsgt/inasbsgt/output/github-contribution-grid-snake.svg)
 
 </div>
 
-<br>
-
-### 💭 Petite pensée du jour
+### 💭 Thought of the Day
 
 <div align="center">
 
@@ -106,33 +181,16 @@ inas:
 
 </div>
 
-<br>
+### 🎀 Beyond the Code
 
-### 🎀 En dehors du code
-
-- ☕ **Café :** indispensable pour coder sereinement
-- 🌸 **Vibe:** tout ce qui est mignon a ma préférence
-- 🧠 **Curiosité :** toujours partante pour acquérir de nouvelles compétences
-
-<br>
+- ☕ **Coffee:** essential for peaceful coding
+- 🍫 **Dark chocolate:** coffee's best friend
+- 🌸 **Kawaii:** anything cute gets my vote
+- 🤎 **Brown:** my favorite color, obviously
+- 🧠 **Curiosity:** always up for learning something new and "wow"
 
 <div align="center">
 
-*"Small steps, cute progress."* 🤎✨
+<img src="assets/footer.svg" width="100%" alt="Thanks for visiting" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&duration=3200&pause=1000&color=A9746E&background=FFF8F0&center=true&vCenter=true&width=800&lines=Merci+pour+la+visite+%F0%9F%A4%8E;See+you+next+commit+%E2%98%95" alt="Footer" />
-
-<!--
-**inasbsgt/inasbsgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
