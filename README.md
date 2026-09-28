@@ -26,7 +26,7 @@ inas:
   fav_color: "brown 🤎"
   fav_drink: "coffee ☕"
   fav_treat: "dark chocolate 🍫"
-  fav_style: "kawaii 🌸"
+  fav_style: "girly🌸"
   superpower: "curiosity"
   motto: "Small steps, cute progress ✨"
 ```
