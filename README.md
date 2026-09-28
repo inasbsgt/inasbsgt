@@ -16,7 +16,7 @@
 
 ### 🌷 About Me
 
-> Curious by nature and always hunting for the next "wow" thing to learn. I am a CS student at UIR, moving step by step from C to Python, from networking to databases, with a cup of coffee never far away. 🤎
+> Curious by nature and always hunting for the next thing to learn. I am a CS student at UIR, moving step by step from C to Python, from networking to databases, with a cup of coffee never far away. 🤎
 
 ```yaml
 inas:
@@ -120,7 +120,7 @@ class Inas:
     def __init__(self):
         self.color = "brown"
         self.drink = "coffee"
-        self.style = "kawaii"
+        self.style = "girly"
         self.curious = True
 
     def learn(self, topic):
@@ -185,7 +185,7 @@ print(inas.learn("SQL"))
 
 - ☕ **Coffee:** essential for peaceful coding
 - 🍫 **Dark chocolate:** coffee's best friend
-- 🌸 **Kawaii:** anything cute gets my vote
+- 🌸 **vibe:** anything cute gets my vote
 - 🤎 **Brown:** my favorite color, obviously
 - 🧠 **Curiosity:** always up for learning something new and "wow"
 
