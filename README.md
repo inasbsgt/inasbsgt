@@ -16,7 +16,7 @@
 
 ### 🌷 About Me
 
-> Curious by nature and always hunting for the next thing to learn. I am a CS student at UIR, moving step by step from C to Python, from networking to databases, with a cup of coffee never far away. 🤎
+> Curious by nature and always hunting for the next "wow" thing to learn. I am a CS student at UIR, moving step by step from C to Python, from networking to databases, with a cup of coffee never far away. 🤎
 
 ```yaml
 inas:
@@ -26,7 +26,7 @@ inas:
   fav_color: "brown 🤎"
   fav_drink: "coffee ☕"
   fav_treat: "dark chocolate 🍫"
-  fav_style: "girly🌸"
+  fav_style: "kawaii 🌸"
   superpower: "curiosity"
   motto: "Small steps, cute progress ✨"
 ```
@@ -120,7 +120,7 @@ class Inas:
     def __init__(self):
         self.color = "brown"
         self.drink = "coffee"
-        self.style = "girly"
+        self.style = "kawaii"
         self.curious = True
 
     def learn(self, topic):
@@ -177,7 +177,7 @@ print(inas.learn("SQL"))
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
+![Quote](https://readme-daily-quotes.vercel.app/api?category=programming&bg_color=FFF8F0&quote_color=A9746E&author_color=6F4E37)
 
 </div>
 
@@ -185,7 +185,7 @@ print(inas.learn("SQL"))
 
 - ☕ **Coffee:** essential for peaceful coding
 - 🍫 **Dark chocolate:** coffee's best friend
-- 🌸 **vibe:** anything cute gets my vote
+- 🌸 **Kawaii:** anything cute gets my vote
 - 🤎 **Brown:** my favorite color, obviously
 - 🧠 **Curiosity:** always up for learning something new and "wow"
 
