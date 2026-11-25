@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 92" width="1200" height="92" role="img" aria-label="Computer Science student at UIR, learning one layer at a time — from C and Python to networks and databases. Curious by default, fueled by coffee.">
+  <rect x="0" y="6" width="5" height="80" rx="2.5" fill="#E7C9BE" fill-opacity="0.6"/>
+  <g font-family="'Segoe UI', -apple-system, Helvetica, Arial, 'DejaVu Sans', sans-serif" font-size="25" fill="#E7C9BE">
+    <text x="28" y="38">Computer Science student at UIR, learning one layer at a time — from C and Python</text>
+    <text x="28" y="74">to networks and databases. Curious by default, fueled by coffee.</text>
+  </g>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="260" viewBox="0 0 700 260" role="img" aria-label="Currently brewing: SQL. Next: databases and networking.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1E130E"/><stop offset="0.55" stop-color="#2B1D15"/><stop offset="1" stop-color="#3E2723"/></linearGradient>
+    <linearGradient id="coffee" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#C4A484"/><stop offset="1" stop-color="#7E5F49"/></linearGradient>
+    <clipPath id="cup"><path d="M-60,-40 H60 V30 C60,66 34,88 0,88 C-34,88 -60,66 -60,30Z"/></clipPath>
+  </defs>
+  <style>
+    .steam{animation:steam 2.4s ease-in-out infinite;transform-box:fill-box;transform-origin:center bottom}
+    .dot{animation:dot 1.4s infinite}
+    .cur{animation:bl .9s steps(1) infinite}
+    @keyframes steam{0%{opacity:0;transform:translateY(10px) scaleY(.7)}50%{opacity:.8}100%{opacity:0;transform:translateY(-18px) scaleY(1.1)}}
+    @keyframes dot{0%,20%{opacity:.15}50%{opacity:1}100%{opacity:.15}}
+    @keyframes bl{50%{opacity:0}}
+  </style>
+  <rect width="700" height="260" rx="20" fill="url(#bg)"/><rect x="1" y="1" width="698" height="258" rx="19" fill="none" stroke="#C4A484" stroke-opacity="0.45" stroke-width="1.5"/>
+  <g transform="translate(165,128)">
+    <path class="steam" d="M-22,-62 C-32,-78 -12,-88 -22,-104" stroke="#C4A484" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path class="steam" style="animation-delay:.8s" d="M0,-62 C-10,-78 10,-88 0,-104" stroke="#C4A484" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path class="steam" style="animation-delay:1.6s" d="M22,-62 C12,-78 32,-88 22,-104" stroke="#C4A484" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M60,-20 C104,-20 104,40 56,40" stroke="#C4A484" stroke-width="9" fill="none" stroke-linecap="round"/>
+    <path d="M-60,-40 H60 V30 C60,66 34,88 0,88 C-34,88 -60,66 -60,30Z" fill="#2B1D15"/>
+    <g clip-path="url(#cup)">
+      <rect x="-70" width="140" height="140" fill="url(#coffee)">
+        <animate attributeName="y" dur="6s" repeatCount="indefinite" keyTimes="0;0.7;0.9;1" values="90;-22;-22;90"/>
+      </rect>
+    </g>
+    <path d="M-60,-40 H60 V30 C60,66 34,88 0,88 C-34,88 -60,66 -60,30Z" fill="none" stroke="#E0C49A" stroke-width="3"/>
+    <text x="0" y="40" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="20" font-weight="700" fill="#2B1D15">&lt;/&gt;</text>
+    <ellipse cx="0" cy="102" rx="80" ry="6" fill="#C4A484" opacity=".3"/>
+  </g>
+  <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace">
+    <text x="320" y="92" font-size="15" letter-spacing="2" fill="#C4A484">// CURRENTLY BREWING</text>
+    <text x="320" y="146" font-size="44" font-weight="700" fill="#F5EBDD">SQL</text>
+    <text x="410" y="146" font-size="44" font-weight="700" fill="#E0C49A" class="dot">.</text>
+    <text x="436" y="146" font-size="44" font-weight="700" fill="#E0C49A" class="dot" style="animation-delay:.25s">.</text>
+    <text x="462" y="146" font-size="44" font-weight="700" fill="#E0C49A" class="dot" style="animation-delay:.5s">.</text>
+    <text x="320" y="186" font-size="15" fill="#D9C2A5">next: databases · networking</text>
+    <text x="320" y="210" font-size="15" fill="#8B6F5A">fueled by curiosity<tspan class="cur" fill="#E0C49A"> _</tspan></text>
+  </g>
+</svg>
